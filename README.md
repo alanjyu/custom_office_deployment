@@ -1,10 +1,12 @@
-# Office Custom Deployment Script
+# Deployment script for Microsoft Office
 
-Command
+
+Use command
 
 ```
 setup.exe /configure '\path\to\config.xml'
 ```
+
 
 ## Links
 

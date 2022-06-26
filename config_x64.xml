@@ -12,8 +12,8 @@ settings  -->
   <Add OfficeClientEdition="64" Channel="Current">
     <Product ID="O365ProPlusRetail">
       <Language ID="en-us" />
-	    <ExcludeApp ID="Access" />
-	    <ExcludeApp ID="Excel" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="Excel" />
       <ExcludeApp ID="Groove" /> (OneDrive for Business, discontinued)
       <ExcludeApp ID="OneNote" />
       <ExcludeApp ID="Word" />

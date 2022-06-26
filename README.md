@@ -1,6 +1,6 @@
 # Office Custom Deployment Script
 
-To be updated.
+Command
 
 ```
 setup.exe /configure '\path\to\config.xml'
